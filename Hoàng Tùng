@@ -1,2 +1,2 @@
-print("hello word")
-how many people a there
+n=1
+print([n for n in range(10)])
